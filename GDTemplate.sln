@@ -13,25 +13,45 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gdcexe", "gdcexe\gdcexe.vcxproj", "{70C7E020-E325-435B-9D20-6DA8298F477D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Dev|x64 = Dev|x64
+		Dev|x86 = Dev|x86
 		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CBC8EB83-CC57-4F8E-81B1-603A1EA73A33}.Debug|x64.ActiveCfg = Debug|x64
 		{CBC8EB83-CC57-4F8E-81B1-603A1EA73A33}.Debug|x64.Build.0 = Debug|x64
+		{CBC8EB83-CC57-4F8E-81B1-603A1EA73A33}.Debug|x86.ActiveCfg = Debug|x64
 		{CBC8EB83-CC57-4F8E-81B1-603A1EA73A33}.Dev|x64.ActiveCfg = Dev|x64
 		{CBC8EB83-CC57-4F8E-81B1-603A1EA73A33}.Dev|x64.Build.0 = Dev|x64
+		{CBC8EB83-CC57-4F8E-81B1-603A1EA73A33}.Dev|x86.ActiveCfg = Dev|x64
 		{CBC8EB83-CC57-4F8E-81B1-603A1EA73A33}.Release|x64.ActiveCfg = Release|x64
 		{CBC8EB83-CC57-4F8E-81B1-603A1EA73A33}.Release|x64.Build.0 = Release|x64
+		{CBC8EB83-CC57-4F8E-81B1-603A1EA73A33}.Release|x86.ActiveCfg = Release|x64
 		{02A99159-B55A-4AF7-8F98-2B809668F6C3}.Debug|x64.ActiveCfg = Debug|x64
 		{02A99159-B55A-4AF7-8F98-2B809668F6C3}.Debug|x64.Build.0 = Debug|x64
+		{02A99159-B55A-4AF7-8F98-2B809668F6C3}.Debug|x86.ActiveCfg = Debug|x64
 		{02A99159-B55A-4AF7-8F98-2B809668F6C3}.Dev|x64.ActiveCfg = Dev|x64
 		{02A99159-B55A-4AF7-8F98-2B809668F6C3}.Dev|x64.Build.0 = Dev|x64
+		{02A99159-B55A-4AF7-8F98-2B809668F6C3}.Dev|x86.ActiveCfg = Dev|x64
 		{02A99159-B55A-4AF7-8F98-2B809668F6C3}.Release|x64.ActiveCfg = Release|x64
 		{02A99159-B55A-4AF7-8F98-2B809668F6C3}.Release|x64.Build.0 = Release|x64
+		{02A99159-B55A-4AF7-8F98-2B809668F6C3}.Release|x86.ActiveCfg = Release|x64
+		{70C7E020-E325-435B-9D20-6DA8298F477D}.Debug|x64.ActiveCfg = Debug|x64
+		{70C7E020-E325-435B-9D20-6DA8298F477D}.Debug|x64.Build.0 = Debug|x64
+		{70C7E020-E325-435B-9D20-6DA8298F477D}.Debug|x86.ActiveCfg = Debug|x64
+		{70C7E020-E325-435B-9D20-6DA8298F477D}.Dev|x64.ActiveCfg = Dev|x64
+		{70C7E020-E325-435B-9D20-6DA8298F477D}.Dev|x64.Build.0 = Dev|x64
+		{70C7E020-E325-435B-9D20-6DA8298F477D}.Dev|x86.ActiveCfg = Dev|x64
+		{70C7E020-E325-435B-9D20-6DA8298F477D}.Release|x64.ActiveCfg = Release|x64
+		{70C7E020-E325-435B-9D20-6DA8298F477D}.Release|x64.Build.0 = Release|x64
+		{70C7E020-E325-435B-9D20-6DA8298F477D}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
